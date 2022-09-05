@@ -14,7 +14,19 @@ HDX_Fig5_bovine_RESULT_cluster-DynamX_result_export | J Marcoux | Dynamx 3.0 | |
 WT BmrA LMNG-Clusterfile | J Marcoux | DynamX 3.0 | | | | 10.1016/j.jmb.2022.167541
 K380A BmrA LMNG-Clusterfile | J Marcoux | DynamX 3.0 | | | | 10.1016/j.jmb.2022.167541
 temp_cluster_dundee | | DynamX 3.0 | | | | 10.1098/rsob.210264
-
+Cluster_data_Rtt106p(65-320)_profile | | DynamX 3.0 | | | | 10.1038/s41467-021-22077-4
+Cluster_data_Bcd1p_profile | | DynamX 3.0 | | | | 10.1038/s41467-021-22077-4
+Cluster_data_M5_vs_M5-L18-RNA | | DynamX 3.0 | | | | 10.1080/15476286.2021.1885896
+Cluster_data_RAR_profile_DR0_binding | | DynamX 3.0 | | | | 10.1093/nar/gkaa697
+Cluster_data_RAR_profile_DR5_binding | | DynamX 3.0 | | | | 10.1093/nar/gkaa697
+Cluster_data_RXR_profile_DR0_binding | | DynamX 3.0 | | | | 10.1093/nar/gkaa697
+Cluster_data_RXR_profile_DR5_binding | | DynamX 3.0 | | | | 10.1093/nar/gkaa697
+Cluster_data_VDR_RXR_MED1_MED1_profile | | DynamX 3.0 | | | | 10.1093/nar/gkaa775
+Cluster_data_VDR_RXR_MED1_RXR_profile | | DynamX 3.0 | | | | 10.1093/nar/gkaa775
+Cluster_data_VDR_RXR_MED1_VDR_profile | | DynamX 3.0 | | | | 10.1093/nar/gkaa775
+Cluster_data_VDR_RXR_NR2_RXR_profile | | DynamX 3.0 | | | | 10.1093/nar/gkaa775
+Cluster_data_VDR_RXR_NR2_VDR_profile | | DynamX 3.0 | | | | 10.1093/nar/gkaa775
+cluster_PXD019810 | | DynamX 3.0 | | | | 10.1038/s41467-020-20069-4
 
 ## Data structures
 
