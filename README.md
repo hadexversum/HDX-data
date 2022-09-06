@@ -27,6 +27,10 @@ Cluster_data_VDR_RXR_MED1_VDR_profile | | DynamX 3.0 | | | | 10.1093/nar/gkaa775
 Cluster_data_VDR_RXR_NR2_RXR_profile | | DynamX 3.0 | | | | 10.1093/nar/gkaa775
 Cluster_data_VDR_RXR_NR2_VDR_profile | | DynamX 3.0 | | | | 10.1093/nar/gkaa775
 cluster_PXD019810 | | DynamX 3.0 | | | | 10.1038/s41467-020-20069-4
+Evasin_CCL8_Peptide_final_Summary | | DynamX 3.0 | | | | 10.1074/jbc.RA120.014103
+Project_1_SecYEGA_ATP_ADP_Cluster_Data | | DynamX 3.0 | | | |
+Project_2_SecA_Cluster_Data | | DynamX 3.0 | | | | 10.7554/elife.47402
+
 
 ## Data structures
 
